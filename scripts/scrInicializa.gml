@@ -109,7 +109,7 @@
                 global.SpriteFuego[7] = sFuego7;
 
                 global.Velocidad = 2.5;
-                global.VelocidadDisparo = 5;
+                global.VelocidadDisparo = 4;
                 global.Salud = 100;
                 global.Hambre = 100;
                 global.Magia = 100;
