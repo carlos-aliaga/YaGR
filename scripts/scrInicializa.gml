@@ -1,3 +1,5 @@
+// Aleatorio siempre en el ejecutable
+    if !debug_mode randomize();
 // Mapa de enemigos
     global.mapaSpawn = ds_map_create();
     //ds_map_add(inventory, "hp potion", 1);

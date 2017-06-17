@@ -220,6 +220,7 @@
       <script>scripts\sRellenaCero.gml</script>
     </scripts>
     <script>scripts\scrTirarDado.gml</script>
+    <script>scripts\scrRoll_Dice.gml</script>
   </scripts>
   <objects name="objects">
     <objects name="Base">
