@@ -1,0 +1,4 @@
+/// @description  Inicializar jugador
+scrInicializa();
+
+

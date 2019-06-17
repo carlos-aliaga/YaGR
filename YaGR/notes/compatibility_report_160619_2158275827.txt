@@ -1,0 +1,88 @@
+Convirtiendo script GML: ${project_dir}\scripts\scrDireccion\scrDireccion.gml
+Descripción convertida /// @description  Setea la direccion donde debe salir el disparo
+
+Convirtiendo script GML: ${project_dir}\scripts\scrVelocidadPlayer\scrVelocidadPlayer.gml
+Descripción convertida /// @description  Velocidad segun el heroe elegido, tomando en cuenta los multiplicadores que tenga
+
+Convirtiendo script GML: ${project_dir}\scripts\Random_Room_Generator\Random_Room_Generator.gml
+Descripción convertida /// @description  Random Room Generator
+
+Convirtiendo script GML: ${project_dir}\scripts\scrSpawn\scrSpawn.gml
+Descripción convertida /// @description  Where We're Going, We Don't Need Roads
+
+Convirtiendo script GML: ${project_dir}\objects\oControlador\Create_0.gml
+Descripción convertida /// @description  Inicializar jugador
+
+Convirtiendo script GML: ${project_dir}\objects\oControlador\Draw_0.gml
+Cadena incluida - línea 9: view_xview -> __view_get( e__VW.XView, 0 )
+Cadena incluida - línea 9: view_xview -> __view_get( e__VW.XView, 0 )
+Cadena incluida - línea 11: view_xview -> __view_get( e__VW.XView, 0 )
+Cadena incluida - línea 15: view_xview -> __view_get( e__VW.XView, 0 )
+Cadena incluida - línea 18: view_xview -> __view_get( e__VW.XView, 0 )
+Cadena incluida - línea 21: view_xview -> __view_get( e__VW.XView, 0 )
+Cadena incluida - línea 24: view_xview -> __view_get( e__VW.XView, 0 )
+Cadena incluida - línea 35: view_xview -> __view_get( e__VW.XView, 0 )
+Cadena incluida - línea 38: view_xview -> __view_get( e__VW.XView, 0 )
+Cadena incluida - línea 41: view_xview -> __view_get( e__VW.XView, 0 )
+Cadena incluida - línea 44: view_xview -> __view_get( e__VW.XView, 0 )
+Cadena incluida - línea 47: view_xview -> __view_get( e__VW.XView, 0 )
+Cadena incluida - línea 50: view_xview -> __view_get( e__VW.XView, 0 )
+Cadena incluida - línea 55: view_xview -> __view_get( e__VW.XView, 0 )
+Cadena incluida - línea 58: view_xview -> __view_get( e__VW.XView, 0 )
+Cadena incluida - línea 61: view_xview -> __view_get( e__VW.XView, 0 )
+Cadena incluida - línea 64: view_xview -> __view_get( e__VW.XView, 0 )
+Cadena incluida - línea 67: view_xview -> __view_get( e__VW.XView, 0 )
+Cadena incluida - línea 78: view_xview -> __view_get( e__VW.XView, 0 )
+Cadena incluida - línea 81: view_xview -> __view_get( e__VW.XView, 0 )
+Cadena incluida - línea 93: view_xview -> __view_get( e__VW.XView, 0 )
+Cadena incluida - línea 9: view_yview -> __view_get( e__VW.YView, 0 )
+Cadena incluida - línea 9: view_yview -> __view_get( e__VW.YView, 0 )
+Cadena incluida - línea 11: view_yview -> __view_get( e__VW.YView, 0 )
+Cadena incluida - línea 15: view_yview -> __view_get( e__VW.YView, 0 )
+Cadena incluida - línea 18: view_yview -> __view_get( e__VW.YView, 0 )
+Cadena incluida - línea 21: view_yview -> __view_get( e__VW.YView, 0 )
+Cadena incluida - línea 24: view_yview -> __view_get( e__VW.YView, 0 )
+Cadena incluida - línea 35: view_yview -> __view_get( e__VW.YView, 0 )
+Cadena incluida - línea 38: view_yview -> __view_get( e__VW.YView, 0 )
+Cadena incluida - línea 41: view_yview -> __view_get( e__VW.YView, 0 )
+Cadena incluida - línea 44: view_yview -> __view_get( e__VW.YView, 0 )
+Cadena incluida - línea 47: view_yview -> __view_get( e__VW.YView, 0 )
+Cadena incluida - línea 50: view_yview -> __view_get( e__VW.YView, 0 )
+Cadena incluida - línea 55: view_yview -> __view_get( e__VW.YView, 0 )
+Cadena incluida - línea 58: view_yview -> __view_get( e__VW.YView, 0 )
+Cadena incluida - línea 61: view_yview -> __view_get( e__VW.YView, 0 )
+Cadena incluida - línea 64: view_yview -> __view_get( e__VW.YView, 0 )
+Cadena incluida - línea 67: view_yview -> __view_get( e__VW.YView, 0 )
+Cadena incluida - línea 78: view_yview -> __view_get( e__VW.YView, 0 )
+Cadena incluida - línea 81: view_yview -> __view_get( e__VW.YView, 0 )
+Cadena incluida - línea 93: view_yview -> __view_get( e__VW.YView, 0 )
+
+Convirtiendo script GML: ${project_dir}\objects\oPlayer\Draw_0.gml
+Descripción convertida /// @description  Muestra info de depuración
+
+Convirtiendo script GML: ${project_dir}\objects\oArma\Create_0.gml
+Descripción convertida /// @description  Setea atributos armas
+
+Convirtiendo script GML: ${project_dir}\objects\oArma\Step_0.gml
+Cadena incluida - línea 2: view_xview -> __view_get( e__VW.XView, 0 )
+Descripción convertida /// @description  Limite de rango de un disparo hacia la derecha
+
+Convirtiendo script GML: ${project_dir}\objects\oExplote\Create_0.gml
+Descripción convertida /// @description  Definir valores segun el tipo de heroe
+
+Convirtiendo script GML: ${project_dir}\objects\oLobber\Step_0.gml
+Descripción convertida /// @description  Lobber
+
+El icono macOS ${options_dir}\mac\icons\icon512.png se ha escrito como de 32-bit
+El script del instalador de Windows NSIS se ha pasado a predeterminado debido a cambios en GameMaker Studio 2
+Velocidad del juego fijada en 30
+Añadido el script de compatibilidad "action/action_end_game.gml"
+Añadido el script de compatibilidad "action/action_kill_object.gml"
+Añadido el script de compatibilidad "action/action_restart_game.gml"
+Añadido el script de compatibilidad "instance/instance_create.gml"
+Añadido el script de compatibilidad "object/object_get_depth.gml"
+Añadido el script de compatibilidad "view/__view_get.gml"
+Añadido el script de compatibilidad "action/__init_action.gml"
+Añadido el script de compatibilidad "view/__init_view.gml"
+Añadido el script de compatibilidad "__init_global.gml"
+Añadido el script de compatibilidad "__global_object_depths.gml"

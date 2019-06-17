@@ -1,0 +1,2 @@
+ Instancia = 0;
+
