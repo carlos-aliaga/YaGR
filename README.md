@@ -1,2 +1,2 @@
 "# YaGR" 
-Yes a Gauntlet Remake
+Yes a Gauntlet Remake.
